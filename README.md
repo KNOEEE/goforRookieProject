@@ -29,3 +29,6 @@ customerService [业务逻辑]
 customer model [数据]
 1.一个客户
 2.各种字段
+
+# 3 server窗口监听消息
+可以开多个cli窗口，在终端输入的内容，可以在server窗口显示
